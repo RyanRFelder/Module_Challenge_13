@@ -1,4 +1,4 @@
-# Machine Learning Testing
+# Machine Learning with Tensorflow
  
 This Jupyter lab notebook contains some test runs with the Tensorflow Keras neural network library (Sequential, Dense) and sklearn modeling as well. The accuracy of each test run is printed below.
 
